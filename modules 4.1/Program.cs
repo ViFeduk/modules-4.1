@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Напишите свой любимый цвет на английском буквы");
+            Console.WriteLine("Напишите свой любимый цвет на английском");
 
             var color = Console.ReadLine().ToLower();
 
